@@ -1,0 +1,28 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-image: linear-gradient(to right, #614385, #516395);
+    display: block;
+    color: #3b1f65;
+}
+
+.container {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.title {
+    margin: 0;
+    font-size: 5em;
+    align-self: center;
+}
+
+.copyright {
+    margin: 0;
+    font-size: 0.8em;
+    align-self: flex-end;
+}
